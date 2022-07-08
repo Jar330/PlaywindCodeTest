@@ -1,0 +1,12 @@
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.exe
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.deps.json
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.runtimeconfig.json
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.runtimeconfig.dev.json
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.dll
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\bin\Debug\netcoreapp3.1\PlaywindCodeTest.pdb
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.AssemblyInfoInputs.cache
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.AssemblyInfo.cs
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.dll
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.pdb
+C:\Users\josep\Documents\Git\PlaywindCode\PlaywindCodeTest\PlaywindCodeTest\obj\Debug\netcoreapp3.1\PlaywindCodeTest.genruntimeconfig.cache
